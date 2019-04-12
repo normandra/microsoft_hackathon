@@ -15,13 +15,19 @@ CF.BaseUrl.set(BASE_URL)
 
 master_result = {}
 time_factor = 10
+folder = "aj"
 
-for i in range(1,22):
+for i in range(1,130):
     if len(str(i)) < 2:
-        path = "test/output_0000" + str(i) + ".jpg"
-    else:
-        path = "test/output_000" + str(i) + ".jpg"
+        path = folder + "/output_0000" + str(i) + ".jpg"
+    elif len(str(i)) < 3:
+        path = folder + "/output_000" + str(i) + ".jpg"
+    elif len(str(i)) < 4:
+        path = folder + "/output_00" + str(i) + ".jpg"
+    elif len(str(i)) < 5:
+        path = folder + "/output_0" + str(i) + ".jpg"
     
+
     timestamp = (i - 1) * time_factor 
 
     attributes = (
@@ -29,7 +35,7 @@ for i in range(1,22):
                 'makeup,occlusion,accessories,blur,exposure,noise')
     result = CF.face.detect(path, False, False, attributes)
     master_result[str(timestamp)] = result
-    print("Sleeping now")
+    print("Sleeping now at: " + str(i))
     time.sleep(4)
 
 
