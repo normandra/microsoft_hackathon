@@ -1,22 +1,40 @@
 import cognitive_face as CF
 from PIL import Image
+import json
+import time
 
-KEY = '81666ab628ea49bf8d2663a91b68080b'  # Replace with a valid Subscription Key here.
+KEY = 'd362531db61f41728ebff0e734b80fc1'  # Replace with a valid Subscription Key here.
 CF.Key.set(KEY)
 
-BASE_URL = 'https://westeurope.api.cognitive.microsoft.com/face/v1.0/detect'  # Replace with your regional Base URL
+BASE_URL = 'https://westcentralus.api.cognitive.microsoft.com/face/v1.0'  # Replace with your regional Base URL
 CF.BaseUrl.set(BASE_URL)
 
-img_url = 'https://raw.githubusercontent.com/Microsoft/Cognitive-Face-Windows/master/Data/detection1.jpg'
+#img_url = 'https://raw.githubusercontent.com/Microsoft/Cognitive-Face-Windows/master/Data/detection1.jpg'
 #test = Image.open("test/output_00001.jpg")
+#path = "test/output_00002.jpg"
 
-path = "test/output_00002.jpg"
+master_result = {}
+time_factor = 10
 
-attributes = (
+for i in range(1,22):
+    if len(str(i)) < 2:
+        path = "test/output_0000" + str(i) + ".jpg"
+    else:
+        path = "test/output_000" + str(i) + ".jpg"
+    
+    timestamp = (i - 1) * time_factor 
+
+    attributes = (
                 'age,gender,headPose,smile,facialHair,glasses,emotion,hair,'
                 'makeup,occlusion,accessories,blur,exposure,noise')
-result = CF.face.detect(img_url, False, False, attributes)
+    result = CF.face.detect(path, False, False, attributes)
+    master_result[str(timestamp)] = result
+    print("Sleeping now")
+    time.sleep(4)
+
 
 #result = CF.face.detect("test/output_00001.jpg")
+print(master_result)
 
-print(result)
+with open('data.json', 'w') as outfile:
+    json.dump(master_result, outfile)
