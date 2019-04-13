@@ -1,0 +1,3634 @@
+{
+  "partition": null,
+  "description": null,
+  "privacyMode": "Private",
+  "state": "Processed",
+  "accountId": "d853f95e-81d2-405d-a1f6-f84daa1b6b6b",
+  "id": "00f2a77c40",
+  "name": "WhatsApp Video 2019-04-12 at 4.32.24 PM",
+  "userName": "",
+  "created": "2019-04-12T14:33:23.6938357+00:00",
+  "isOwned": true,
+  "isEditable": true,
+  "isBase": true,
+  "durationInSeconds": 190,
+  "summarizedInsights": {
+    "name": "WhatsApp Video 2019-04-12 at 4.32.24 PM",
+    "id": "00f2a77c40",
+    "privacyMode": "Private",
+    "duration": {
+      "time": "0:03:10.294",
+      "seconds": 190.3
+    },
+    "thumbnailVideoId": "00f2a77c40",
+    "thumbnailId": "cb39aaac-2a62-45d2-86c4-6403bdc3a15a",
+    "faces": [
+      {
+        "videoId": "00f2a77c40",
+        "referenceId": "906e4245-16b1-1454-7536-1c1e7c9e7a0a",
+        "referenceType": "Bing",
+        "confidence": 0.9993,
+        "description": "Joseph James Rogan is an American stand-up comedian, mixed martial arts color commentator, podcast host, businessman and former television host and actor. Rogan began a career in comedy in August 1988 in the Boston area. After relocating to Los Angeles in 1994, Rogan signed an …",
+        "title": "Comedian",
+        "thumbnailId": "7b1cc351-3f8a-4ce3-ba10-6132c6636bb9",
+        "seenDuration": 126,
+        "seenDurationRatio": 0.6621,
+        "id": 3257,
+        "name": "Joe Rogan",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:56.2",
+            "startSeconds": 0,
+            "endSeconds": 56.2
+          },
+          {
+            "startTime": "0:02:00",
+            "endTime": "0:03:09.8",
+            "startSeconds": 120,
+            "endSeconds": 189.8
+          }
+        ]
+      },
+      {
+        "videoId": "00f2a77c40",
+        "referenceId": "eac79309-bb11-9455-bca2-878a7d19b124",
+        "referenceType": "Bing",
+        "confidence": 1,
+        "description": "Michael Yo is an American actor, stand-up comedian and television host who co-hosts The Insider on CBS, as well as Yo Show on Yahoo! TV. Yo also appears regularly on the comedy panel of E!'s Chelsea Lately, as a guest host for The Talk on CBS, and as pop-culture commentator on HLN's Showbiz Tonight.",
+        "title": "American Actor",
+        "thumbnailId": "56b556b6-8460-4e92-9eda-d3be9783c33b",
+        "seenDuration": 81.8,
+        "seenDurationRatio": 0.4299,
+        "id": 3198,
+        "name": "Michael Yo",
+        "appearances": [
+          {
+            "startTime": "0:00:39.733",
+            "endTime": "0:00:45.833",
+            "startSeconds": 39.7,
+            "endSeconds": 45.8
+          },
+          {
+            "startTime": "0:00:56.2",
+            "endTime": "0:02:00",
+            "startSeconds": 56.2,
+            "endSeconds": 120
+          },
+          {
+            "startTime": "0:02:26.467",
+            "endTime": "0:02:38.033",
+            "startSeconds": 146.5,
+            "endSeconds": 158
+          },
+          {
+            "startTime": "0:03:09.8",
+            "endTime": "0:03:10.233",
+            "startSeconds": 189.8,
+            "endSeconds": 190.2
+          }
+        ]
+      }
+    ],
+    "keywords": [
+      {
+        "isTranscript": true,
+        "id": 0,
+        "name": "constantly put",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:18.8",
+            "startSeconds": 0,
+            "endSeconds": 18.8
+          },
+          {
+            "startTime": "0:00:45.71",
+            "endTime": "0:00:48.2",
+            "startSeconds": 45.7,
+            "endSeconds": 48.2
+          },
+          {
+            "startTime": "0:02:47.45",
+            "endTime": "0:02:52.52",
+            "startSeconds": 167.4,
+            "endSeconds": 172.5
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 1,
+        "name": "rod stewart",
+        "appearances": [
+          {
+            "startTime": "0:00:08.59",
+            "endTime": "0:00:25.42",
+            "startSeconds": 8.6,
+            "endSeconds": 25.4
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 2,
+        "name": "perfect attendance",
+        "appearances": [
+          {
+            "startTime": "0:01:14.35",
+            "endTime": "0:01:17.66",
+            "startSeconds": 74.4,
+            "endSeconds": 77.7
+          },
+          {
+            "startTime": "0:01:25.01",
+            "endTime": "0:01:35.21",
+            "startSeconds": 85,
+            "endSeconds": 95.2
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 3,
+        "name": "love",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:08.59",
+            "startSeconds": 0,
+            "endSeconds": 8.6
+          },
+          {
+            "startTime": "0:00:28.45",
+            "endTime": "0:00:30.83",
+            "startSeconds": 28.4,
+            "endSeconds": 30.8
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 4,
+        "name": "shit",
+        "appearances": [
+          {
+            "startTime": "0:00:48.2",
+            "endTime": "0:00:55.41",
+            "startSeconds": 48.2,
+            "endSeconds": 55.4
+          },
+          {
+            "startTime": "0:02:20.94",
+            "endTime": "0:02:26.09",
+            "startSeconds": 140.9,
+            "endSeconds": 146.1
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 5,
+        "name": "culture",
+        "appearances": [
+          {
+            "startTime": "0:02:39.23",
+            "endTime": "0:02:52.52",
+            "startSeconds": 159.2,
+            "endSeconds": 172.5
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 6,
+        "name": "stuff",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:18.8",
+            "startSeconds": 0,
+            "endSeconds": 18.8
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 7,
+        "name": "chicago",
+        "appearances": [
+          {
+            "startTime": "0:01:05.1",
+            "endTime": "0:01:25.01",
+            "startSeconds": 65.1,
+            "endSeconds": 85
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 8,
+        "name": "ripples",
+        "appearances": [
+          {
+            "startTime": "0:02:52.52",
+            "endTime": "0:02:56.24",
+            "startSeconds": 172.5,
+            "endSeconds": 176.2
+          },
+          {
+            "startTime": "0:03:06.13",
+            "endTime": "0:03:10.244",
+            "startSeconds": 186.1,
+            "endSeconds": 190.2
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 9,
+        "name": "people",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:08.59",
+            "startSeconds": 0,
+            "endSeconds": 8.6
+          },
+          {
+            "startTime": "0:01:05.1",
+            "endTime": "0:01:14.35",
+            "startSeconds": 65.1,
+            "endSeconds": 74.4
+          },
+          {
+            "startTime": "0:02:00.57",
+            "endTime": "0:02:08.03",
+            "startSeconds": 120.6,
+            "endSeconds": 128
+          },
+          {
+            "startTime": "0:02:12.98",
+            "endTime": "0:02:18.59",
+            "startSeconds": 133,
+            "endSeconds": 138.6
+          },
+          {
+            "startTime": "0:02:26.09",
+            "endTime": "0:02:29.74",
+            "startSeconds": 146.1,
+            "endSeconds": 149.7
+          },
+          {
+            "startTime": "0:02:52.52",
+            "endTime": "0:02:56.24",
+            "startSeconds": 172.5,
+            "endSeconds": 176.2
+          },
+          {
+            "startTime": "0:03:03.51",
+            "endTime": "0:03:06.13",
+            "startSeconds": 183.5,
+            "endSeconds": 186.1
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 10,
+        "name": "lose",
+        "appearances": [
+          {
+            "startTime": "0:00:08.59",
+            "endTime": "0:00:18.8",
+            "startSeconds": 8.6,
+            "endSeconds": 18.8
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 11,
+        "name": "music",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:08.59",
+            "startSeconds": 0,
+            "endSeconds": 8.6
+          },
+          {
+            "startTime": "0:00:30.83",
+            "endTime": "0:00:33.63",
+            "startSeconds": 30.8,
+            "endSeconds": 33.6
+          },
+          {
+            "startTime": "0:00:55.41",
+            "endTime": "0:00:57.49",
+            "startSeconds": 55.4,
+            "endSeconds": 57.5
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 12,
+        "name": "sell",
+        "appearances": [
+          {
+            "startTime": "0:00:33.63",
+            "endTime": "0:00:38",
+            "startSeconds": 33.6,
+            "endSeconds": 38
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 13,
+        "name": "place",
+        "appearances": [
+          {
+            "startTime": "0:00:48.2",
+            "endTime": "0:00:55.41",
+            "startSeconds": 48.2,
+            "endSeconds": 55.4
+          },
+          {
+            "startTime": "0:01:53.69",
+            "endTime": "0:01:57.2",
+            "startSeconds": 113.7,
+            "endSeconds": 117.2
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 14,
+        "name": "talk",
+        "appearances": [
+          {
+            "startTime": "0:00:48.2",
+            "endTime": "0:00:58.91",
+            "startSeconds": 48.2,
+            "endSeconds": 58.9
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 15,
+        "name": "interview",
+        "appearances": [
+          {
+            "startTime": "0:01:25.01",
+            "endTime": "0:01:35.21",
+            "startSeconds": 85,
+            "endSeconds": 95.2
+          },
+          {
+            "startTime": "0:01:53.69",
+            "endTime": "0:01:57.2",
+            "startSeconds": 113.7,
+            "endSeconds": 117.2
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 16,
+        "name": "time",
+        "appearances": [
+          {
+            "startTime": "0:01:35.21",
+            "endTime": "0:01:51.11",
+            "startSeconds": 95.2,
+            "endSeconds": 111.1
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 17,
+        "name": "apple",
+        "appearances": [
+          {
+            "startTime": "0:02:00.57",
+            "endTime": "0:02:12.98",
+            "startSeconds": 120.6,
+            "endSeconds": 133
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 18,
+        "name": "genius",
+        "appearances": [
+          {
+            "startTime": "0:02:32.54",
+            "endTime": "0:02:39.23",
+            "startSeconds": 152.5,
+            "endSeconds": 159.2
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 19,
+        "name": "live",
+        "appearances": [
+          {
+            "startTime": "0:01:35.21",
+            "endTime": "0:01:40.07",
+            "startSeconds": 95.2,
+            "endSeconds": 100.1
+          },
+          {
+            "startTime": "0:02:47.45",
+            "endTime": "0:02:52.52",
+            "startSeconds": 167.4,
+            "endSeconds": 172.5
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 20,
+        "name": "joke",
+        "appearances": [
+          {
+            "startTime": "0:03:01.05",
+            "endTime": "0:03:06.13",
+            "startSeconds": 181,
+            "endSeconds": 186.1
+          }
+        ]
+      }
+    ],
+    "sentiments": [
+      {
+        "sentimentKey": "Neutral",
+        "seenDurationRatio": 0.9843,
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:03:07.27",
+            "startSeconds": 0,
+            "endSeconds": 187.3
+          }
+        ]
+      },
+      {
+        "sentimentKey": "Negative",
+        "seenDurationRatio": 0.011,
+        "appearances": [
+          {
+            "startTime": "0:00:26.2",
+            "endTime": "0:00:28.28",
+            "startSeconds": 26.2,
+            "endSeconds": 28.3
+          }
+        ]
+      },
+      {
+        "sentimentKey": "Positive",
+        "seenDurationRatio": 0.0236,
+        "appearances": [
+          {
+            "startTime": "0:00:30.71",
+            "endTime": "0:00:32.27",
+            "startSeconds": 30.7,
+            "endSeconds": 32.3
+          },
+          {
+            "startTime": "0:03:07.27",
+            "endTime": "0:03:10.244",
+            "startSeconds": 187.3,
+            "endSeconds": 190.2
+          }
+        ]
+      }
+    ],
+    "emotions": [],
+    "audioEffects": [],
+    "labels": [
+      {
+        "id": 0,
+        "name": "person",
+        "appearances": [
+          {
+            "startTime": "0:00:00.033",
+            "endTime": "0:03:10.233",
+            "startSeconds": 0,
+            "endSeconds": 190.2
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "curtain",
+        "appearances": [
+          {
+            "startTime": "0:00:40.567",
+            "endTime": "0:00:45.9",
+            "startSeconds": 40.6,
+            "endSeconds": 45.9
+          },
+          {
+            "startTime": "0:00:56.567",
+            "endTime": "0:02:00.567",
+            "startSeconds": 56.6,
+            "endSeconds": 120.6
+          },
+          {
+            "startTime": "0:02:27.233",
+            "endTime": "0:02:32.567",
+            "startSeconds": 147.2,
+            "endSeconds": 152.6
+          },
+          {
+            "startTime": "0:02:36.833",
+            "endTime": "0:02:38.967",
+            "startSeconds": 156.8,
+            "endSeconds": 159
+          },
+          {
+            "startTime": "0:03:09.9",
+            "endTime": "0:03:10.233",
+            "startSeconds": 189.9,
+            "endSeconds": 190.2
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "weapon",
+        "appearances": [
+          {
+            "startTime": "0:00:01.1",
+            "endTime": "0:00:01.133",
+            "startSeconds": 1.1,
+            "endSeconds": 1.1
+          },
+          {
+            "startTime": "0:00:13.9",
+            "endTime": "0:00:16.034",
+            "startSeconds": 13.9,
+            "endSeconds": 16
+          },
+          {
+            "startTime": "0:02:57.1",
+            "endTime": "0:03:01.367",
+            "startSeconds": 177.1,
+            "endSeconds": 181.4
+          }
+        ]
+      },
+      {
+        "id": -1,
+        "name": "RollingCredits",
+        "appearances": [
+          {
+            "startTime": "0:03:05",
+            "endTime": "0:03:10",
+            "startSeconds": 185,
+            "endSeconds": 190
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "music",
+        "appearances": [
+          {
+            "startTime": "0:00:41.633",
+            "endTime": "0:00:42.7",
+            "startSeconds": 41.6,
+            "endSeconds": 42.7
+          },
+          {
+            "startTime": "0:00:58.7",
+            "endTime": "0:00:59.767",
+            "startSeconds": 58.7,
+            "endSeconds": 59.8
+          },
+          {
+            "startTime": "0:01:37.1",
+            "endTime": "0:01:38.167",
+            "startSeconds": 97.1,
+            "endSeconds": 98.2
+          },
+          {
+            "startTime": "0:01:44.567",
+            "endTime": "0:01:45.634",
+            "startSeconds": 104.6,
+            "endSeconds": 105.6
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "man",
+        "appearances": [
+          {
+            "startTime": "0:00:46.967",
+            "endTime": "0:00:48.034",
+            "startSeconds": 47,
+            "endSeconds": 48
+          },
+          {
+            "startTime": "0:01:49.9",
+            "endTime": "0:01:50.967",
+            "startSeconds": 109.9,
+            "endSeconds": 111
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "indoor",
+        "appearances": [
+          {
+            "startTime": "0:03:00.3",
+            "endTime": "0:03:01.367",
+            "startSeconds": 180.3,
+            "endSeconds": 181.4
+          },
+          {
+            "startTime": "0:03:04.567",
+            "endTime": "0:03:05.634",
+            "startSeconds": 184.6,
+            "endSeconds": 185.6
+          }
+        ]
+      }
+    ],
+    "brands": [],
+    "statistics": {
+      "correspondenceCount": 6,
+      "speakerTalkToListenRatio": {
+        "1": 0.667,
+        "2": 0.332
+      },
+      "speakerLongestMonolog": {
+        "1": 43,
+        "2": 52
+      },
+      "speakerNumberOfFragments": {
+        "1": 4,
+        "2": 3
+      },
+      "speakerWordCount": {
+        "1": 391,
+        "2": 197
+      }
+    },
+    "topics": [
+      {
+        "referenceUrl": "https://en.wikipedia.org/wiki/Category:Culture",
+        "iptcName": null,
+        "iabName": null,
+        "confidence": 0.6813,
+        "id": 0,
+        "name": "Culture",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:08.59",
+            "startSeconds": 0,
+            "endSeconds": 8.6
+          },
+          {
+            "startTime": "0:00:30.83",
+            "endTime": "0:00:33.63",
+            "startSeconds": 30.8,
+            "endSeconds": 33.6
+          },
+          {
+            "startTime": "0:00:55.41",
+            "endTime": "0:00:57.49",
+            "startSeconds": 55.4,
+            "endSeconds": 57.5
+          },
+          {
+            "startTime": "0:02:39.23",
+            "endTime": "0:02:52.52",
+            "startSeconds": 159.2,
+            "endSeconds": 172.5
+          }
+        ]
+      },
+      {
+        "referenceUrl": "https://en.wikipedia.org/wiki/Category:Singers",
+        "iptcName": null,
+        "iabName": null,
+        "confidence": 0.6775,
+        "id": 1,
+        "name": "Singers",
+        "appearances": [
+          {
+            "startTime": "0:00:18.8",
+            "endTime": "0:00:25.42",
+            "startSeconds": 18.8,
+            "endSeconds": 25.4
+          }
+        ]
+      },
+      {
+        "referenceUrl": "https://en.wikipedia.org/wiki/Category:Emotions",
+        "iptcName": null,
+        "iabName": null,
+        "confidence": 0.6682,
+        "id": 2,
+        "name": "Emotions",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:08.59",
+            "startSeconds": 0,
+            "endSeconds": 8.6
+          },
+          {
+            "startTime": "0:00:28.45",
+            "endTime": "0:00:30.83",
+            "startSeconds": 28.4,
+            "endSeconds": 30.8
+          }
+        ]
+      },
+      {
+        "referenceUrl": "https://en.wikipedia.org/wiki/Category:Humour",
+        "iptcName": null,
+        "iabName": null,
+        "confidence": 0.6678,
+        "id": 3,
+        "name": "Humour",
+        "appearances": [
+          {
+            "startTime": "0:03:01.05",
+            "endTime": "0:03:06.13",
+            "startSeconds": 181,
+            "endSeconds": 186.1
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "Arts, Culture, Entertainment and Media",
+        "iabName": "Music and Audio",
+        "confidence": 0.5581,
+        "id": 4,
+        "name": "Music",
+        "appearances": [
+          {
+            "startTime": "0:00:21.89",
+            "endTime": "0:00:45.71",
+            "startSeconds": 21.9,
+            "endSeconds": 45.7
+          },
+          {
+            "startTime": "0:01:17.66",
+            "endTime": "0:01:40.07",
+            "startSeconds": 77.7,
+            "endSeconds": 100.1
+          },
+          {
+            "startTime": "0:02:12.98",
+            "endTime": "0:02:32.54",
+            "startSeconds": 133,
+            "endSeconds": 152.5
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "Economy, Business and Finance",
+        "iabName": "Business and Finance",
+        "confidence": 0.5457,
+        "id": 5,
+        "name": "Business/Wealth/Steve Jobs",
+        "appearances": [
+          {
+            "startTime": "0:01:25.01",
+            "endTime": "0:02:20.94",
+            "startSeconds": 85,
+            "endSeconds": 140.9
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "Arts, Culture, Entertainment and Media",
+        "iabName": "Movies",
+        "confidence": 0.487,
+        "id": 6,
+        "name": "Movies",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:03:10.244",
+            "startSeconds": 0,
+            "endSeconds": 190.2
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": null,
+        "iabName": null,
+        "confidence": 0.4328,
+        "id": 7,
+        "name": "Long Distance Relationships",
+        "appearances": [
+          {
+            "startTime": "0:00:48.2",
+            "endTime": "0:01:14.35",
+            "startSeconds": 48.2,
+            "endSeconds": 74.4
+          },
+          {
+            "startTime": "0:01:25.01",
+            "endTime": "0:01:57.2",
+            "startSeconds": 85,
+            "endSeconds": 117.2
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "Arts, Culture, Entertainment and Media",
+        "iabName": "Movies",
+        "confidence": 0.386,
+        "id": 8,
+        "name": "Movies, Tv and Entertainment/Entertainment",
+        "appearances": [
+          {
+            "startTime": "0:01:00.94",
+            "endTime": "0:01:25.01",
+            "startSeconds": 60.9,
+            "endSeconds": 85
+          }
+        ]
+      }
+    ]
+  },
+  "videos": [
+    {
+      "accountId": "d853f95e-81d2-405d-a1f6-f84daa1b6b6b",
+      "id": "00f2a77c40",
+      "state": "Processed",
+      "moderationState": "OK",
+      "reviewState": "None",
+      "privacyMode": "Private",
+      "processingProgress": "100%",
+      "failureCode": "None",
+      "failureMessage": "",
+      "externalId": null,
+      "externalUrl": null,
+      "metadata": null,
+      "insights": {
+        "version": "1.0.0.0",
+        "duration": "0:03:10.294",
+        "sourceLanguage": "en-US",
+        "language": "en-US",
+        "transcript": [
+          {
+            "id": 0,
+            "text": "Like one of the things that keeps Connie West relevant is that he's constantly putting out music constantly puts out stuff that people love.",
+            "confidence": 0.8996,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:08.59",
+                "start": "0:00:00",
+                "end": "0:00:08.59"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "text": "He constantly put some stuff that smashes and some guys lose their enthusiasm for productivity bring prolific they lose that and then they don't put out stuff anymore.",
+            "confidence": 0.8996,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08.59",
+                "adjustedEnd": "0:00:18.8",
+                "start": "0:00:08.59",
+                "end": "0:00:18.8"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "And then they become like Rod Stewart Rod Stewart.",
+            "confidence": 0.8996,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:18.8",
+                "adjustedEnd": "0:00:21.89",
+                "start": "0:00:18.8",
+                "end": "0:00:21.89"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "I'd like to see Rod Stewart.",
+            "confidence": 0.8996,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:21.89",
+                "adjustedEnd": "0:00:23.65",
+                "start": "0:00:21.89",
+                "end": "0:00:23.65"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "I'm a giant Rod Stewart fan.",
+            "confidence": 0.8996,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:23.65",
+                "adjustedEnd": "0:00:25.42",
+                "start": "0:00:23.65",
+                "end": "0:00:25.42"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "When Maggie may comes on the radio I get excited.",
+            "confidence": 0.8996,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:25.42",
+                "adjustedEnd": "0:00:28.45",
+                "start": "0:00:25.42",
+                "end": "0:00:28.45"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "I love that God damn song.",
+            "confidence": 0.8996,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28.45",
+                "adjustedEnd": "0:00:30.83",
+                "start": "0:00:28.45",
+                "end": "0:00:30.83"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "His music, he was, but",
+            "confidence": 0.755,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:30.83",
+                "adjustedEnd": "0:00:33.63",
+                "start": "0:00:30.83",
+                "end": "0:00:33.63"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "How many tickets we sell right now and I'm saying well he sell out the staple center?",
+            "confidence": 0.8854,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33.63",
+                "adjustedEnd": "0:00:38",
+                "start": "0:00:33.63",
+                "end": "0:00:38"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "I don't think you would now you know when you I know you're still working on Connie coming on the show.",
+            "confidence": 0.8854,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:38",
+                "adjustedEnd": "0:00:43.28",
+                "start": "0:00:38",
+                "end": "0:00:43.28"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "And things not even would if he wants to do it,",
+            "confidence": 0.8854,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:43.28",
+                "adjustedEnd": "0:00:45.71",
+                "start": "0:00:43.28",
+                "end": "0:00:45.71"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "but I don't want to put any pressure on anybody.",
+            "confidence": 0.8854,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:45.71",
+                "adjustedEnd": "0:00:48.2",
+                "start": "0:00:45.71",
+                "end": "0:00:48.2"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "Absolutely not necessarily know the podcast for the best place for someone for everybody might not be the best place to just talk about shit,",
+            "confidence": 0.8854,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48.2",
+                "adjustedEnd": "0:00:55.41",
+                "start": "0:00:48.2",
+                "end": "0:00:55.41"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "but did you get better to just do music?",
+            "confidence": 0.8854,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:55.41",
+                "adjustedEnd": "0:00:57.49",
+                "start": "0:00:55.41",
+                "end": "0:00:57.49"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "Did you get to talk to him?",
+            "confidence": 0.8854,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:57.49",
+                "adjustedEnd": "0:00:58.91",
+                "start": "0:00:57.49",
+                "end": "0:00:58.91"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "text": "At least on the phone or was very nice.",
+            "confidence": 0.8854,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:58.91",
+                "adjustedEnd": "0:01:00.94",
+                "start": "0:00:58.91",
+                "end": "0:01:00.94"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "text": "Let me tell you man,",
+            "confidence": 0.8854,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:00.94",
+                "adjustedEnd": "0:01:02.01",
+                "start": "0:01:00.94",
+                "end": "0:01:02.01"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "text": "he is so opposite his persona like on the outside like that,",
+            "confidence": 0.8854,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:02.01",
+                "adjustedEnd": "0:01:05.1",
+                "start": "0:01:02.01",
+                "end": "0:01:05.1"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "text": "you see. Gossip magazines and on TV I used to host has done to West Foundation event in Chicago and a lot of people don't know the good.",
+            "confidence": 0.9096,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:05.1",
+                "adjustedEnd": "0:01:14.35",
+                "start": "0:01:05.1",
+                "end": "0:01:14.35"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "text": "He did in Chicago. If they had perfect attendance,",
+            "confidence": 0.9115,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:14.35",
+                "adjustedEnd": "0:01:17.66",
+                "start": "0:01:14.35",
+                "end": "0:01:17.66"
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "text": "he would go there every year through a huge concert bring like common and all different type of Chicago artists,",
+            "confidence": 0.9115,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:17.66",
+                "adjustedEnd": "0:01:25.01",
+                "start": "0:01:17.66",
+                "end": "0:01:25.01"
+              }
+            ]
+          },
+          {
+            "id": 21,
+            "text": "he would bust everybody in from all over the city through a free concert for all these kids that had perfect attendance and it would give his interview him,",
+            "confidence": 0.9115,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:25.01",
+                "adjustedEnd": "0:01:35.21",
+                "start": "0:01:25.01",
+                "end": "0:01:35.21"
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "text": "that way because he? At that time when his mom was still alive.",
+            "confidence": 0.8886,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:35.21",
+                "adjustedEnd": "0:01:40.07",
+                "start": "0:01:35.21",
+                "end": "0:01:40.07"
+              }
+            ]
+          },
+          {
+            "id": 23,
+            "text": "He's such a down down to Earth.",
+            "confidence": 0.8785,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:40.07",
+                "adjustedEnd": "0:01:42.19",
+                "start": "0:01:40.07",
+                "end": "0:01:42.19"
+              }
+            ]
+          },
+          {
+            "id": 24,
+            "text": "Humble Diane actually shy and shy like he was really shy so wet and this is at the time I would see stories about him yelling at sway.",
+            "confidence": 0.8785,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:42.19",
+                "adjustedEnd": "0:01:51.11",
+                "start": "0:01:42.19",
+                "end": "0:01:51.11"
+              }
+            ]
+          },
+          {
+            "id": 25,
+            "text": "Yeah, I'm like this is not to do that.",
+            "confidence": 0.8785,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:51.11",
+                "adjustedEnd": "0:01:53.69",
+                "start": "0:01:51.11",
+                "end": "0:01:53.69"
+              }
+            ]
+          },
+          {
+            "id": 26,
+            "text": "I interviewed he's volatile goes all over the place.",
+            "confidence": 0.8785,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:53.69",
+                "adjustedEnd": "0:01:57.2",
+                "start": "0:01:53.69",
+                "end": "0:01:57.2"
+              }
+            ]
+          },
+          {
+            "id": 27,
+            "text": "Yeah, that's part of why such an explosive artist.",
+            "confidence": 0.8785,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:57.2",
+                "adjustedEnd": "0:02:00.57",
+                "start": "0:01:57.2",
+                "end": "0:02:00.57"
+              }
+            ]
+          },
+          {
+            "id": 28,
+            "text": "He's incredible incredible. The people think different remember that stupid Apple add think different.",
+            "confidence": 0.8785,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:00.57",
+                "adjustedEnd": "0:02:08.03",
+                "start": "0:02:00.57",
+                "end": "0:02:08.03"
+              }
+            ]
+          },
+          {
+            "id": 29,
+            "text": "Really do think different differently.",
+            "confidence": 0.9042,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:08.03",
+                "adjustedEnd": "0:02:10.57",
+                "start": "0:02:08.03",
+                "end": "0:02:10.57"
+              }
+            ]
+          },
+          {
+            "id": 30,
+            "text": "That's 1 of the problems with Apple.",
+            "confidence": 0.9042,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:10.57",
+                "adjustedEnd": "0:02:12.98",
+                "start": "0:02:10.57",
+                "end": "0:02:12.98"
+              }
+            ]
+          },
+          {
+            "id": 31,
+            "text": "Add to English grammar, but there's people out there that just have a different vibe.",
+            "confidence": 0.9042,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:12.98",
+                "adjustedEnd": "0:02:18.59",
+                "start": "0:02:12.98",
+                "end": "0:02:18.59"
+              }
+            ]
+          },
+          {
+            "id": 32,
+            "text": "There are on a different frequency.",
+            "confidence": 0.9042,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:18.59",
+                "adjustedEnd": "0:02:20.94",
+                "start": "0:02:18.59",
+                "end": "0:02:20.94"
+              }
+            ]
+          },
+          {
+            "id": 33,
+            "text": "There are different wavelength and they're the ones who create great shit man,",
+            "confidence": 0.9042,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:20.94",
+                "adjustedEnd": "0:02:26.09",
+                "start": "0:02:20.94",
+                "end": "0:02:26.09"
+              }
+            ]
+          },
+          {
+            "id": 34,
+            "text": "he has a gift. I mean he is a lot of people outside go.",
+            "confidence": 0.9042,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:26.09",
+                "adjustedEnd": "0:02:29.74",
+                "start": "0:02:26.09",
+                "end": "0:02:29.74"
+              }
+            ]
+          },
+          {
+            "id": 35,
+            "text": "He's out there. He's definitely out there,",
+            "confidence": 0.9042,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:29.74",
+                "adjustedEnd": "0:02:32.54",
+                "start": "0:02:29.74",
+                "end": "0:02:32.54"
+              }
+            ]
+          },
+          {
+            "id": 36,
+            "text": "Yeah, but he's a genius.",
+            "confidence": 0.9042,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:32.54",
+                "adjustedEnd": "0:02:34.17",
+                "start": "0:02:32.54",
+                "end": "0:02:34.17"
+              }
+            ]
+          },
+          {
+            "id": 37,
+            "text": "He is a genius. He's doing something in a different way and that's",
+            "confidence": 0.9042,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:34.17",
+                "adjustedEnd": "0:02:39.23",
+                "start": "0:02:34.17",
+                "end": "0:02:39.23"
+              }
+            ]
+          },
+          {
+            "id": 38,
+            "text": "Culture, along that's what it's like when you're doing stand up right like if you're if you're nailing something if you really lock down something and boom.",
+            "confidence": 0.9035,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:39.23",
+                "adjustedEnd": "0:02:47.45",
+                "start": "0:02:39.23",
+                "end": "0:02:47.45"
+              }
+            ]
+          },
+          {
+            "id": 39,
+            "text": "You put out a live on the sunset strip or a delirious or something that you're changing culture.",
+            "confidence": 0.9035,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:47.45",
+                "adjustedEnd": "0:02:52.52",
+                "start": "0:02:47.45",
+                "end": "0:02:52.52"
+              }
+            ]
+          },
+          {
+            "id": 40,
+            "text": "You're making people. People are going to spread out in these ripples,",
+            "confidence": 0.9035,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:52.52",
+                "adjustedEnd": "0:02:56.24",
+                "start": "0:02:52.52",
+                "end": "0:02:56.24"
+              }
+            ]
+          },
+          {
+            "id": 41,
+            "text": "yeah, we're going to go to their job in the morning like we saw Michael Yo Holy Shade does.",
+            "confidence": 0.9035,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:56.24",
+                "adjustedEnd": "0:03:01.05",
+                "start": "0:02:56.24",
+                "end": "0:03:01.05"
+              }
+            ]
+          },
+          {
+            "id": 42,
+            "text": "This joke about his cat and whatever the fuck,",
+            "confidence": 0.9035,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:03:01.05",
+                "adjustedEnd": "0:03:03.51",
+                "start": "0:03:01.05",
+                "end": "0:03:03.51"
+              }
+            ]
+          },
+          {
+            "id": 43,
+            "text": "it is whatever the joke is that people be crying,",
+            "confidence": 0.9035,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:03:03.51",
+                "adjustedEnd": "0:03:06.13",
+                "start": "0:03:03.51",
+                "end": "0:03:06.13"
+              }
+            ]
+          },
+          {
+            "id": 44,
+            "text": "laughing and that those ripples to that is positive ripples you change things.",
+            "confidence": 0.9035,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:03:06.13",
+                "adjustedEnd": "0:03:10.244",
+                "start": "0:03:06.13",
+                "end": "0:03:10.244"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "id": 0,
+            "text": "constantly put",
+            "confidence": 0.9975,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:08.59",
+                "start": "0:00:00",
+                "end": "0:00:08.59"
+              },
+              {
+                "adjustedStart": "0:00:08.59",
+                "adjustedEnd": "0:00:18.8",
+                "start": "0:00:08.59",
+                "end": "0:00:18.8"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "text": "rod stewart",
+            "confidence": 0.9975,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:18.8",
+                "adjustedEnd": "0:00:21.89",
+                "start": "0:00:18.8",
+                "end": "0:00:21.89"
+              },
+              {
+                "adjustedStart": "0:00:21.89",
+                "adjustedEnd": "0:00:23.65",
+                "start": "0:00:21.89",
+                "end": "0:00:23.65"
+              },
+              {
+                "adjustedStart": "0:00:23.65",
+                "adjustedEnd": "0:00:25.42",
+                "start": "0:00:23.65",
+                "end": "0:00:25.42"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "perfect attendance",
+            "confidence": 0.9975,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:14.35",
+                "adjustedEnd": "0:01:17.66",
+                "start": "0:01:14.35",
+                "end": "0:01:17.66"
+              },
+              {
+                "adjustedStart": "0:01:25.01",
+                "adjustedEnd": "0:01:35.21",
+                "start": "0:01:25.01",
+                "end": "0:01:35.21"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "love",
+            "confidence": 0.8041,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:08.59",
+                "start": "0:00:00",
+                "end": "0:00:08.59"
+              },
+              {
+                "adjustedStart": "0:00:28.45",
+                "adjustedEnd": "0:00:30.83",
+                "start": "0:00:28.45",
+                "end": "0:00:30.83"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "shit",
+            "confidence": 0.8041,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48.2",
+                "adjustedEnd": "0:00:55.41",
+                "start": "0:00:48.2",
+                "end": "0:00:55.41"
+              },
+              {
+                "adjustedStart": "0:02:20.94",
+                "adjustedEnd": "0:02:26.09",
+                "start": "0:02:20.94",
+                "end": "0:02:26.09"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "culture",
+            "confidence": 0.8041,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:39.23",
+                "adjustedEnd": "0:02:47.45",
+                "start": "0:02:39.23",
+                "end": "0:02:47.45"
+              },
+              {
+                "adjustedStart": "0:02:47.45",
+                "adjustedEnd": "0:02:52.52",
+                "start": "0:02:47.45",
+                "end": "0:02:52.52"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "stuff",
+            "confidence": 0.7514,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:08.59",
+                "start": "0:00:00",
+                "end": "0:00:08.59"
+              },
+              {
+                "adjustedStart": "0:00:08.59",
+                "adjustedEnd": "0:00:18.8",
+                "start": "0:00:08.59",
+                "end": "0:00:18.8"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "chicago",
+            "confidence": 0.7514,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:05.1",
+                "adjustedEnd": "0:01:14.35",
+                "start": "0:01:05.1",
+                "end": "0:01:14.35"
+              },
+              {
+                "adjustedStart": "0:01:14.35",
+                "adjustedEnd": "0:01:17.66",
+                "start": "0:01:14.35",
+                "end": "0:01:17.66"
+              },
+              {
+                "adjustedStart": "0:01:17.66",
+                "adjustedEnd": "0:01:25.01",
+                "start": "0:01:17.66",
+                "end": "0:01:25.01"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "ripples",
+            "confidence": 0.7514,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:52.52",
+                "adjustedEnd": "0:02:56.24",
+                "start": "0:02:52.52",
+                "end": "0:02:56.24"
+              },
+              {
+                "adjustedStart": "0:03:06.13",
+                "adjustedEnd": "0:03:10.244",
+                "start": "0:03:06.13",
+                "end": "0:03:10.244"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "people",
+            "confidence": 0.7217,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:08.59",
+                "start": "0:00:00",
+                "end": "0:00:08.59"
+              },
+              {
+                "adjustedStart": "0:01:05.1",
+                "adjustedEnd": "0:01:14.35",
+                "start": "0:01:05.1",
+                "end": "0:01:14.35"
+              },
+              {
+                "adjustedStart": "0:02:00.57",
+                "adjustedEnd": "0:02:08.03",
+                "start": "0:02:00.57",
+                "end": "0:02:08.03"
+              },
+              {
+                "adjustedStart": "0:02:12.98",
+                "adjustedEnd": "0:02:18.59",
+                "start": "0:02:12.98",
+                "end": "0:02:18.59"
+              },
+              {
+                "adjustedStart": "0:02:26.09",
+                "adjustedEnd": "0:02:29.74",
+                "start": "0:02:26.09",
+                "end": "0:02:29.74"
+              },
+              {
+                "adjustedStart": "0:02:52.52",
+                "adjustedEnd": "0:02:56.24",
+                "start": "0:02:52.52",
+                "end": "0:02:56.24"
+              },
+              {
+                "adjustedStart": "0:03:03.51",
+                "adjustedEnd": "0:03:06.13",
+                "start": "0:03:03.51",
+                "end": "0:03:06.13"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "lose",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08.59",
+                "adjustedEnd": "0:00:18.8",
+                "start": "0:00:08.59",
+                "end": "0:00:18.8"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "music",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:08.59",
+                "start": "0:00:00",
+                "end": "0:00:08.59"
+              },
+              {
+                "adjustedStart": "0:00:30.83",
+                "adjustedEnd": "0:00:33.63",
+                "start": "0:00:30.83",
+                "end": "0:00:33.63"
+              },
+              {
+                "adjustedStart": "0:00:55.41",
+                "adjustedEnd": "0:00:57.49",
+                "start": "0:00:55.41",
+                "end": "0:00:57.49"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "sell",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33.63",
+                "adjustedEnd": "0:00:38",
+                "start": "0:00:33.63",
+                "end": "0:00:38"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "place",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48.2",
+                "adjustedEnd": "0:00:55.41",
+                "start": "0:00:48.2",
+                "end": "0:00:55.41"
+              },
+              {
+                "adjustedStart": "0:01:53.69",
+                "adjustedEnd": "0:01:57.2",
+                "start": "0:01:53.69",
+                "end": "0:01:57.2"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "talk",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48.2",
+                "adjustedEnd": "0:00:55.41",
+                "start": "0:00:48.2",
+                "end": "0:00:55.41"
+              },
+              {
+                "adjustedStart": "0:00:57.49",
+                "adjustedEnd": "0:00:58.91",
+                "start": "0:00:57.49",
+                "end": "0:00:58.91"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "text": "interview",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:25.01",
+                "adjustedEnd": "0:01:35.21",
+                "start": "0:01:25.01",
+                "end": "0:01:35.21"
+              },
+              {
+                "adjustedStart": "0:01:53.69",
+                "adjustedEnd": "0:01:57.2",
+                "start": "0:01:53.69",
+                "end": "0:01:57.2"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "text": "time",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:35.21",
+                "adjustedEnd": "0:01:40.07",
+                "start": "0:01:35.21",
+                "end": "0:01:40.07"
+              },
+              {
+                "adjustedStart": "0:01:42.19",
+                "adjustedEnd": "0:01:51.11",
+                "start": "0:01:42.19",
+                "end": "0:01:51.11"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "text": "apple",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:00.57",
+                "adjustedEnd": "0:02:08.03",
+                "start": "0:02:00.57",
+                "end": "0:02:08.03"
+              },
+              {
+                "adjustedStart": "0:02:10.57",
+                "adjustedEnd": "0:02:12.98",
+                "start": "0:02:10.57",
+                "end": "0:02:12.98"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "text": "genius",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:32.54",
+                "adjustedEnd": "0:02:34.17",
+                "start": "0:02:32.54",
+                "end": "0:02:34.17"
+              },
+              {
+                "adjustedStart": "0:02:34.17",
+                "adjustedEnd": "0:02:39.23",
+                "start": "0:02:34.17",
+                "end": "0:02:39.23"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "text": "live",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:35.21",
+                "adjustedEnd": "0:01:40.07",
+                "start": "0:01:35.21",
+                "end": "0:01:40.07"
+              },
+              {
+                "adjustedStart": "0:02:47.45",
+                "adjustedEnd": "0:02:52.52",
+                "start": "0:02:47.45",
+                "end": "0:02:52.52"
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "text": "joke",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:03:01.05",
+                "adjustedEnd": "0:03:03.51",
+                "start": "0:03:01.05",
+                "end": "0:03:03.51"
+              },
+              {
+                "adjustedStart": "0:03:03.51",
+                "adjustedEnd": "0:03:06.13",
+                "start": "0:03:03.51",
+                "end": "0:03:06.13"
+              }
+            ]
+          }
+        ],
+        "topics": [
+          {
+            "id": 0,
+            "name": "Culture",
+            "referenceId": "Category:Culture",
+            "referenceUrl": "https://en.wikipedia.org/wiki/Category:Culture",
+            "referenceType": "Wikipedia",
+            "confidence": 0.6813,
+            "iabName": null,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:08.59",
+                "start": "0:00:00",
+                "end": "0:00:08.59"
+              },
+              {
+                "adjustedStart": "0:00:30.83",
+                "adjustedEnd": "0:00:33.63",
+                "start": "0:00:30.83",
+                "end": "0:00:33.63"
+              },
+              {
+                "adjustedStart": "0:00:55.41",
+                "adjustedEnd": "0:00:57.49",
+                "start": "0:00:55.41",
+                "end": "0:00:57.49"
+              },
+              {
+                "adjustedStart": "0:02:39.23",
+                "adjustedEnd": "0:02:52.52",
+                "start": "0:02:39.23",
+                "end": "0:02:52.52"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Singers",
+            "referenceId": "Category:Singers",
+            "referenceUrl": "https://en.wikipedia.org/wiki/Category:Singers",
+            "referenceType": "Wikipedia",
+            "confidence": 0.6775,
+            "iabName": null,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:18.8",
+                "adjustedEnd": "0:00:25.42",
+                "start": "0:00:18.8",
+                "end": "0:00:25.42"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Emotions",
+            "referenceId": "Category:Emotions",
+            "referenceUrl": "https://en.wikipedia.org/wiki/Category:Emotions",
+            "referenceType": "Wikipedia",
+            "confidence": 0.6682,
+            "iabName": null,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:08.59",
+                "start": "0:00:00",
+                "end": "0:00:08.59"
+              },
+              {
+                "adjustedStart": "0:00:28.45",
+                "adjustedEnd": "0:00:30.83",
+                "start": "0:00:28.45",
+                "end": "0:00:30.83"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Humour",
+            "referenceId": "Category:Humour",
+            "referenceUrl": "https://en.wikipedia.org/wiki/Category:Humour",
+            "referenceType": "Wikipedia",
+            "confidence": 0.6678,
+            "iabName": null,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:03:01.05",
+                "adjustedEnd": "0:03:06.13",
+                "start": "0:03:01.05",
+                "end": "0:03:06.13"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Music",
+            "referenceId": "Music",
+            "referenceType": "VideoIndexer",
+            "iptcName": "Arts, Culture, Entertainment and Media",
+            "confidence": 0.5581,
+            "iabName": "Music and Audio",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:21.89",
+                "adjustedEnd": "0:00:45.71",
+                "start": "0:00:21.89",
+                "end": "0:00:45.71"
+              },
+              {
+                "adjustedStart": "0:01:17.66",
+                "adjustedEnd": "0:01:40.07",
+                "start": "0:01:17.66",
+                "end": "0:01:40.07"
+              },
+              {
+                "adjustedStart": "0:02:12.98",
+                "adjustedEnd": "0:02:32.54",
+                "start": "0:02:12.98",
+                "end": "0:02:32.54"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Steve Jobs",
+            "referenceId": "Business/Wealth/Steve Jobs",
+            "referenceType": "VideoIndexer",
+            "iptcName": "Economy, Business and Finance",
+            "confidence": 0.5457,
+            "iabName": "Business and Finance",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:25.01",
+                "adjustedEnd": "0:02:20.94",
+                "start": "0:01:25.01",
+                "end": "0:02:20.94"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Movies, Tv and Entertainment",
+            "referenceId": "Movies",
+            "referenceType": "VideoIndexer",
+            "iptcName": "Arts, Culture, Entertainment and Media",
+            "confidence": 0.487,
+            "iabName": "Movies",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:03:10.244",
+                "start": "0:00:00",
+                "end": "0:03:10.244"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Long Distance Relationships",
+            "referenceId": "Long Distance Relationships",
+            "referenceType": "VideoIndexer",
+            "confidence": 0.4328,
+            "iabName": null,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48.2",
+                "adjustedEnd": "0:01:14.35",
+                "start": "0:00:48.2",
+                "end": "0:01:14.35"
+              },
+              {
+                "adjustedStart": "0:01:25.01",
+                "adjustedEnd": "0:01:57.2",
+                "start": "0:01:25.01",
+                "end": "0:01:57.2"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Entertainment",
+            "referenceId": "Movies, Tv and Entertainment/Entertainment",
+            "referenceType": "VideoIndexer",
+            "iptcName": "Arts, Culture, Entertainment and Media",
+            "confidence": 0.386,
+            "iabName": "Movies",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:00.94",
+                "adjustedEnd": "0:01:25.01",
+                "start": "0:01:00.94",
+                "end": "0:01:25.01"
+              }
+            ]
+          }
+        ],
+        "faces": [
+          {
+            "id": 3257,
+            "name": "Joe Rogan",
+            "confidence": 0.9993,
+            "description": "Joseph James Rogan is an American stand-up comedian, mixed martial arts color commentator, podcast host, businessman and former television host and actor. Rogan began a career in comedy in August 1988 in the Boston area. After relocating to Los Angeles in 1994, Rogan signed an …",
+            "thumbnailId": "7b1cc351-3f8a-4ce3-ba10-6132c6636bb9",
+            "referenceId": "906e4245-16b1-1454-7536-1c1e7c9e7a0a",
+            "referenceType": "Bing",
+            "title": "Comedian",
+            "imageUrl": "https://www.bing.com/th?id=AMMS_87ad70fe84ba3634e03f312d41b35bf3&c=12&rs=1&qlt=80&cdv=1&pid=16.2",
+            "thumbnails": [
+              {
+                "id": "d5ec479b-5b4b-4866-84c8-7e699ddc4513",
+                "fileName": "FaceThumbnail_d5ec479b-5b4b-4866-84c8-7e699ddc4513.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:00.033",
+                    "adjustedEnd": "0:00:00.066",
+                    "start": "0:00:00.033",
+                    "end": "0:00:00.066"
+                  }
+                ]
+              },
+              {
+                "id": "669a853a-02e7-4f8e-9f40-b5759bf77147",
+                "fileName": "FaceThumbnail_669a853a-02e7-4f8e-9f40-b5759bf77147.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:05.033",
+                    "adjustedEnd": "0:00:05.066",
+                    "start": "0:00:05.033",
+                    "end": "0:00:05.066"
+                  }
+                ]
+              },
+              {
+                "id": "78a52d98-84d0-4185-b64c-950f1371fd5d",
+                "fileName": "FaceThumbnail_78a52d98-84d0-4185-b64c-950f1371fd5d.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:10.033",
+                    "adjustedEnd": "0:00:10.066",
+                    "start": "0:00:10.033",
+                    "end": "0:00:10.066"
+                  }
+                ]
+              },
+              {
+                "id": "31f2965c-5f89-4bfe-be5b-ca3850adf36e",
+                "fileName": "FaceThumbnail_31f2965c-5f89-4bfe-be5b-ca3850adf36e.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:15.033",
+                    "adjustedEnd": "0:00:15.066",
+                    "start": "0:00:15.033",
+                    "end": "0:00:15.066"
+                  }
+                ]
+              },
+              {
+                "id": "6e5a5d05-c3ed-4644-9cba-2bc49977f7fb",
+                "fileName": "FaceThumbnail_6e5a5d05-c3ed-4644-9cba-2bc49977f7fb.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:20.033",
+                    "adjustedEnd": "0:00:20.066",
+                    "start": "0:00:20.033",
+                    "end": "0:00:20.066"
+                  }
+                ]
+              },
+              {
+                "id": "7d96137e-bcef-420d-8fd5-4202c8dd4709",
+                "fileName": "FaceThumbnail_7d96137e-bcef-420d-8fd5-4202c8dd4709.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:25.033",
+                    "adjustedEnd": "0:00:25.066",
+                    "start": "0:00:25.033",
+                    "end": "0:00:25.066"
+                  }
+                ]
+              },
+              {
+                "id": "7cb66c24-07d0-4de6-8a61-ee60b9e300e5",
+                "fileName": "FaceThumbnail_7cb66c24-07d0-4de6-8a61-ee60b9e300e5.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:30.033",
+                    "adjustedEnd": "0:00:30.066",
+                    "start": "0:00:30.033",
+                    "end": "0:00:30.066"
+                  }
+                ]
+              },
+              {
+                "id": "bcc757a4-0425-4389-bdbc-28c711acfd83",
+                "fileName": "FaceThumbnail_bcc757a4-0425-4389-bdbc-28c711acfd83.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:35.033",
+                    "adjustedEnd": "0:00:35.066",
+                    "start": "0:00:35.033",
+                    "end": "0:00:35.066"
+                  }
+                ]
+              },
+              {
+                "id": "90aeb15b-30a2-4495-a070-90d11fda6dae",
+                "fileName": "FaceThumbnail_90aeb15b-30a2-4495-a070-90d11fda6dae.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:50.033",
+                    "adjustedEnd": "0:00:50.066",
+                    "start": "0:00:50.033",
+                    "end": "0:00:50.066"
+                  }
+                ]
+              },
+              {
+                "id": "e018e5de-49d3-4511-9fc1-537a944dd7f5",
+                "fileName": "FaceThumbnail_e018e5de-49d3-4511-9fc1-537a944dd7f5.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:55.033",
+                    "adjustedEnd": "0:00:55.066",
+                    "start": "0:00:55.033",
+                    "end": "0:00:55.066"
+                  }
+                ]
+              },
+              {
+                "id": "904180cf-2d29-467b-a1f4-4e83ad7ec180",
+                "fileName": "FaceThumbnail_904180cf-2d29-467b-a1f4-4e83ad7ec180.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:02:00.033",
+                    "adjustedEnd": "0:02:00.066",
+                    "start": "0:02:00.033",
+                    "end": "0:02:00.066"
+                  }
+                ]
+              },
+              {
+                "id": "70f1783b-c395-43b2-a501-5a5efdc3f4d9",
+                "fileName": "FaceThumbnail_70f1783b-c395-43b2-a501-5a5efdc3f4d9.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:02:05.033",
+                    "adjustedEnd": "0:02:05.066",
+                    "start": "0:02:05.033",
+                    "end": "0:02:05.066"
+                  }
+                ]
+              },
+              {
+                "id": "5b03dddf-c550-4073-b77b-131a11c10bef",
+                "fileName": "FaceThumbnail_5b03dddf-c550-4073-b77b-131a11c10bef.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:02:10.033",
+                    "adjustedEnd": "0:02:10.066",
+                    "start": "0:02:10.033",
+                    "end": "0:02:10.066"
+                  }
+                ]
+              },
+              {
+                "id": "de9f334a-617d-4d62-8a98-caa94c45b4f5",
+                "fileName": "FaceThumbnail_de9f334a-617d-4d62-8a98-caa94c45b4f5.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:02:15.033",
+                    "adjustedEnd": "0:02:15.066",
+                    "start": "0:02:15.033",
+                    "end": "0:02:15.066"
+                  }
+                ]
+              },
+              {
+                "id": "df71f658-874d-4696-bb76-526ac3a5265e",
+                "fileName": "FaceThumbnail_df71f658-874d-4696-bb76-526ac3a5265e.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:02:20.033",
+                    "adjustedEnd": "0:02:20.066",
+                    "start": "0:02:20.033",
+                    "end": "0:02:20.066"
+                  }
+                ]
+              },
+              {
+                "id": "cf254a8f-be86-4096-af3a-2a652dfd7ea7",
+                "fileName": "FaceThumbnail_cf254a8f-be86-4096-af3a-2a652dfd7ea7.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:02:25.033",
+                    "adjustedEnd": "0:02:25.066",
+                    "start": "0:02:25.033",
+                    "end": "0:02:25.066"
+                  }
+                ]
+              },
+              {
+                "id": "7b1cc351-3f8a-4ce3-ba10-6132c6636bb9",
+                "fileName": "FaceThumbnail_7b1cc351-3f8a-4ce3-ba10-6132c6636bb9.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:02:32.9",
+                    "adjustedEnd": "0:02:32.933",
+                    "start": "0:02:32.9",
+                    "end": "0:02:32.933"
+                  }
+                ]
+              },
+              {
+                "id": "b00fb3f3-1892-4c8d-b724-6baee7168907",
+                "fileName": "FaceThumbnail_b00fb3f3-1892-4c8d-b724-6baee7168907.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:02:35.033",
+                    "adjustedEnd": "0:02:35.066",
+                    "start": "0:02:35.033",
+                    "end": "0:02:35.066"
+                  }
+                ]
+              },
+              {
+                "id": "f47ab128-ad80-4190-80d2-f4303709a41e",
+                "fileName": "FaceThumbnail_f47ab128-ad80-4190-80d2-f4303709a41e.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:02:40.033",
+                    "adjustedEnd": "0:02:40.066",
+                    "start": "0:02:40.033",
+                    "end": "0:02:40.066"
+                  }
+                ]
+              },
+              {
+                "id": "3979b13e-0b45-4de3-86d8-7ab951e49b96",
+                "fileName": "FaceThumbnail_3979b13e-0b45-4de3-86d8-7ab951e49b96.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:02:45.033",
+                    "adjustedEnd": "0:02:45.066",
+                    "start": "0:02:45.033",
+                    "end": "0:02:45.066"
+                  }
+                ]
+              },
+              {
+                "id": "aaf44c6c-4041-4b29-bb64-639e21fd4916",
+                "fileName": "FaceThumbnail_aaf44c6c-4041-4b29-bb64-639e21fd4916.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:02:50.033",
+                    "adjustedEnd": "0:02:50.066",
+                    "start": "0:02:50.033",
+                    "end": "0:02:50.066"
+                  }
+                ]
+              },
+              {
+                "id": "bc316baf-4b41-4868-965a-0464eab98d77",
+                "fileName": "FaceThumbnail_bc316baf-4b41-4868-965a-0464eab98d77.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:02:55.033",
+                    "adjustedEnd": "0:02:55.066",
+                    "start": "0:02:55.033",
+                    "end": "0:02:55.066"
+                  }
+                ]
+              },
+              {
+                "id": "a70ed9de-0480-49e4-86d6-42f01c4c067a",
+                "fileName": "FaceThumbnail_a70ed9de-0480-49e4-86d6-42f01c4c067a.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:03:00.033",
+                    "adjustedEnd": "0:03:00.066",
+                    "start": "0:03:00.033",
+                    "end": "0:03:00.066"
+                  }
+                ]
+              },
+              {
+                "id": "5c8a60dc-984c-4951-a59c-0f1740c131ed",
+                "fileName": "FaceThumbnail_5c8a60dc-984c-4951-a59c-0f1740c131ed.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:03:05.033",
+                    "adjustedEnd": "0:03:05.066",
+                    "start": "0:03:05.033",
+                    "end": "0:03:05.066"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "d5ec479b-5b4b-4866-84c8-7e699ddc4513",
+                  "bcc757a4-0425-4389-bdbc-28c711acfd83",
+                  "669a853a-02e7-4f8e-9f40-b5759bf77147",
+                  "78a52d98-84d0-4185-b64c-950f1371fd5d",
+                  "31f2965c-5f89-4bfe-be5b-ca3850adf36e",
+                  "6e5a5d05-c3ed-4644-9cba-2bc49977f7fb",
+                  "7d96137e-bcef-420d-8fd5-4202c8dd4709",
+                  "7cb66c24-07d0-4de6-8a61-ee60b9e300e5"
+                ],
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:39.733",
+                "start": "0:00:00",
+                "end": "0:00:39.733"
+              },
+              {
+                "thumbnailsIds": [
+                  "90aeb15b-30a2-4495-a070-90d11fda6dae",
+                  "e018e5de-49d3-4511-9fc1-537a944dd7f5"
+                ],
+                "adjustedStart": "0:00:45.867",
+                "adjustedEnd": "0:00:56.2",
+                "start": "0:00:45.867",
+                "end": "0:00:56.2"
+              },
+              {
+                "thumbnailsIds": [
+                  "904180cf-2d29-467b-a1f4-4e83ad7ec180",
+                  "70f1783b-c395-43b2-a501-5a5efdc3f4d9",
+                  "5b03dddf-c550-4073-b77b-131a11c10bef",
+                  "de9f334a-617d-4d62-8a98-caa94c45b4f5",
+                  "df71f658-874d-4696-bb76-526ac3a5265e",
+                  "cf254a8f-be86-4096-af3a-2a652dfd7ea7"
+                ],
+                "adjustedStart": "0:02:00",
+                "adjustedEnd": "0:02:26.466",
+                "start": "0:02:00",
+                "end": "0:02:26.466"
+              },
+              {
+                "thumbnailsIds": [
+                  "7b1cc351-3f8a-4ce3-ba10-6132c6636bb9",
+                  "b00fb3f3-1892-4c8d-b724-6baee7168907"
+                ],
+                "adjustedStart": "0:02:32.133",
+                "adjustedEnd": "0:02:36.666",
+                "start": "0:02:32.133",
+                "end": "0:02:36.666"
+              },
+              {
+                "thumbnailsIds": [
+                  "f47ab128-ad80-4190-80d2-f4303709a41e",
+                  "3979b13e-0b45-4de3-86d8-7ab951e49b96",
+                  "aaf44c6c-4041-4b29-bb64-639e21fd4916",
+                  "bc316baf-4b41-4868-965a-0464eab98d77",
+                  "a70ed9de-0480-49e4-86d6-42f01c4c067a",
+                  "5c8a60dc-984c-4951-a59c-0f1740c131ed"
+                ],
+                "adjustedStart": "0:02:38.067",
+                "adjustedEnd": "0:03:09.8",
+                "start": "0:02:38.067",
+                "end": "0:03:09.8"
+              }
+            ]
+          },
+          {
+            "id": 3198,
+            "name": "Michael Yo",
+            "confidence": 1,
+            "description": "Michael Yo is an American actor, stand-up comedian and television host who co-hosts The Insider on CBS, as well as Yo Show on Yahoo! TV. Yo also appears regularly on the comedy panel of E!'s Chelsea Lately, as a guest host for The Talk on CBS, and as pop-culture commentator on HLN's Showbiz Tonight.",
+            "thumbnailId": "56b556b6-8460-4e92-9eda-d3be9783c33b",
+            "referenceId": "eac79309-bb11-9455-bca2-878a7d19b124",
+            "referenceType": "Bing",
+            "title": "American Actor",
+            "imageUrl": "https://www.bing.com/th?id=AMMS_fa037413d8213df97ab0b67a37c846bb&c=12&rs=1&qlt=80&cdv=1&pid=16.2",
+            "thumbnails": [
+              {
+                "id": "e2c029be-1c67-4049-88da-6ef0b1420992",
+                "fileName": "FaceThumbnail_e2c029be-1c67-4049-88da-6ef0b1420992.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:40.033",
+                    "adjustedEnd": "0:00:40.066",
+                    "start": "0:00:40.033",
+                    "end": "0:00:40.066"
+                  }
+                ]
+              },
+              {
+                "id": "ef9125b6-ed59-4594-a40c-66acdb857d46",
+                "fileName": "FaceThumbnail_ef9125b6-ed59-4594-a40c-66acdb857d46.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:45.033",
+                    "adjustedEnd": "0:00:45.066",
+                    "start": "0:00:45.033",
+                    "end": "0:00:45.066"
+                  }
+                ]
+              },
+              {
+                "id": "2a97aaa1-7f43-4530-9f17-9893b7bd164b",
+                "fileName": "FaceThumbnail_2a97aaa1-7f43-4530-9f17-9893b7bd164b.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:00.033",
+                    "adjustedEnd": "0:01:00.066",
+                    "start": "0:01:00.033",
+                    "end": "0:01:00.066"
+                  }
+                ]
+              },
+              {
+                "id": "47cf04e6-a476-43cf-bac7-53347539fc99",
+                "fileName": "FaceThumbnail_47cf04e6-a476-43cf-bac7-53347539fc99.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:05.033",
+                    "adjustedEnd": "0:01:05.066",
+                    "start": "0:01:05.033",
+                    "end": "0:01:05.066"
+                  }
+                ]
+              },
+              {
+                "id": "8d787d56-3ba5-49fb-bc02-0746d0995f0e",
+                "fileName": "FaceThumbnail_8d787d56-3ba5-49fb-bc02-0746d0995f0e.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:10.033",
+                    "adjustedEnd": "0:01:10.066",
+                    "start": "0:01:10.033",
+                    "end": "0:01:10.066"
+                  }
+                ]
+              },
+              {
+                "id": "9b680960-d896-4411-a63f-60a7ce0831f3",
+                "fileName": "FaceThumbnail_9b680960-d896-4411-a63f-60a7ce0831f3.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:15.033",
+                    "adjustedEnd": "0:01:15.066",
+                    "start": "0:01:15.033",
+                    "end": "0:01:15.066"
+                  }
+                ]
+              },
+              {
+                "id": "7c39487c-bf17-434d-a51a-e9d466492c09",
+                "fileName": "FaceThumbnail_7c39487c-bf17-434d-a51a-e9d466492c09.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:20.033",
+                    "adjustedEnd": "0:01:20.066",
+                    "start": "0:01:20.033",
+                    "end": "0:01:20.066"
+                  }
+                ]
+              },
+              {
+                "id": "a89440bd-a8c9-4ea9-a93b-f27b21e4c695",
+                "fileName": "FaceThumbnail_a89440bd-a8c9-4ea9-a93b-f27b21e4c695.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:25.033",
+                    "adjustedEnd": "0:01:25.066",
+                    "start": "0:01:25.033",
+                    "end": "0:01:25.066"
+                  }
+                ]
+              },
+              {
+                "id": "3f3b6c7a-c9d4-4a59-ace9-ccf871f44abd",
+                "fileName": "FaceThumbnail_3f3b6c7a-c9d4-4a59-ace9-ccf871f44abd.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:30.033",
+                    "adjustedEnd": "0:01:30.066",
+                    "start": "0:01:30.033",
+                    "end": "0:01:30.066"
+                  }
+                ]
+              },
+              {
+                "id": "ea99777f-d4d7-4b66-99e6-938bb79097ea",
+                "fileName": "FaceThumbnail_ea99777f-d4d7-4b66-99e6-938bb79097ea.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:35.033",
+                    "adjustedEnd": "0:01:35.066",
+                    "start": "0:01:35.033",
+                    "end": "0:01:35.066"
+                  }
+                ]
+              },
+              {
+                "id": "c3883509-e269-46cf-81a8-f820702b4c46",
+                "fileName": "FaceThumbnail_c3883509-e269-46cf-81a8-f820702b4c46.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:40.033",
+                    "adjustedEnd": "0:01:40.066",
+                    "start": "0:01:40.033",
+                    "end": "0:01:40.066"
+                  }
+                ]
+              },
+              {
+                "id": "acb89899-1f6c-40c7-bde7-59d3be1f6646",
+                "fileName": "FaceThumbnail_acb89899-1f6c-40c7-bde7-59d3be1f6646.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:45.033",
+                    "adjustedEnd": "0:01:45.066",
+                    "start": "0:01:45.033",
+                    "end": "0:01:45.066"
+                  }
+                ]
+              },
+              {
+                "id": "2f96ddfb-b0f7-48c2-9ace-2f34650a925c",
+                "fileName": "FaceThumbnail_2f96ddfb-b0f7-48c2-9ace-2f34650a925c.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:50.033",
+                    "adjustedEnd": "0:01:50.066",
+                    "start": "0:01:50.033",
+                    "end": "0:01:50.066"
+                  }
+                ]
+              },
+              {
+                "id": "d0a95fb5-c555-4d32-ae23-f932361a74b2",
+                "fileName": "FaceThumbnail_d0a95fb5-c555-4d32-ae23-f932361a74b2.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:55.033",
+                    "adjustedEnd": "0:01:55.066",
+                    "start": "0:01:55.033",
+                    "end": "0:01:55.066"
+                  }
+                ]
+              },
+              {
+                "id": "77c09cfe-64aa-4c98-994b-c334a24b3d61",
+                "fileName": "FaceThumbnail_77c09cfe-64aa-4c98-994b-c334a24b3d61.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:02:30.033",
+                    "adjustedEnd": "0:02:30.066",
+                    "start": "0:02:30.033",
+                    "end": "0:02:30.066"
+                  }
+                ]
+              },
+              {
+                "id": "56b556b6-8460-4e92-9eda-d3be9783c33b",
+                "fileName": "FaceThumbnail_56b556b6-8460-4e92-9eda-d3be9783c33b.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:02:30.767",
+                    "adjustedEnd": "0:02:30.8",
+                    "start": "0:02:30.767",
+                    "end": "0:02:30.8"
+                  }
+                ]
+              },
+              {
+                "id": "8da9c0bb-a1cf-48b2-8840-fa3414ff4237",
+                "fileName": "FaceThumbnail_8da9c0bb-a1cf-48b2-8840-fa3414ff4237.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:03:10.033",
+                    "adjustedEnd": "0:03:10.066",
+                    "start": "0:03:10.033",
+                    "end": "0:03:10.066"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "e2c029be-1c67-4049-88da-6ef0b1420992",
+                  "ef9125b6-ed59-4594-a40c-66acdb857d46"
+                ],
+                "adjustedStart": "0:00:39.733",
+                "adjustedEnd": "0:00:45.833",
+                "start": "0:00:39.733",
+                "end": "0:00:45.833"
+              },
+              {
+                "thumbnailsIds": [
+                  "2a97aaa1-7f43-4530-9f17-9893b7bd164b",
+                  "47cf04e6-a476-43cf-bac7-53347539fc99",
+                  "8d787d56-3ba5-49fb-bc02-0746d0995f0e",
+                  "9b680960-d896-4411-a63f-60a7ce0831f3",
+                  "7c39487c-bf17-434d-a51a-e9d466492c09",
+                  "a89440bd-a8c9-4ea9-a93b-f27b21e4c695",
+                  "3f3b6c7a-c9d4-4a59-ace9-ccf871f44abd",
+                  "ea99777f-d4d7-4b66-99e6-938bb79097ea",
+                  "c3883509-e269-46cf-81a8-f820702b4c46",
+                  "acb89899-1f6c-40c7-bde7-59d3be1f6646",
+                  "2f96ddfb-b0f7-48c2-9ace-2f34650a925c",
+                  "d0a95fb5-c555-4d32-ae23-f932361a74b2"
+                ],
+                "adjustedStart": "0:00:56.2",
+                "adjustedEnd": "0:02:00",
+                "start": "0:00:56.2",
+                "end": "0:02:00"
+              },
+              {
+                "thumbnailsIds": [
+                  "77c09cfe-64aa-4c98-994b-c334a24b3d61",
+                  "56b556b6-8460-4e92-9eda-d3be9783c33b"
+                ],
+                "adjustedStart": "0:02:26.467",
+                "adjustedEnd": "0:02:32.1",
+                "start": "0:02:26.467",
+                "end": "0:02:32.1"
+              },
+              {
+                "adjustedStart": "0:02:36.667",
+                "adjustedEnd": "0:02:38.033",
+                "start": "0:02:36.667",
+                "end": "0:02:38.033"
+              },
+              {
+                "thumbnailsIds": [
+                  "8da9c0bb-a1cf-48b2-8840-fa3414ff4237"
+                ],
+                "adjustedStart": "0:03:09.8",
+                "adjustedEnd": "0:03:10.233",
+                "start": "0:03:09.8",
+                "end": "0:03:10.233"
+              }
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "id": 0,
+            "name": "person",
+            "referenceId": "person",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9851,
+                "adjustedStart": "0:00:00.033",
+                "adjustedEnd": "0:00:00.066",
+                "start": "0:00:00.033",
+                "end": "0:00:00.066"
+              },
+              {
+                "confidence": 0.9879,
+                "adjustedStart": "0:00:01.1",
+                "adjustedEnd": "0:00:01.133",
+                "start": "0:00:01.1",
+                "end": "0:00:01.133"
+              },
+              {
+                "confidence": 0.984,
+                "adjustedStart": "0:00:02.167",
+                "adjustedEnd": "0:03:10.233",
+                "start": "0:00:02.167",
+                "end": "0:03:10.233"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "name": "weapon",
+            "referenceId": "weapon",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.8606,
+                "adjustedStart": "0:00:01.1",
+                "adjustedEnd": "0:00:01.133",
+                "start": "0:00:01.1",
+                "end": "0:00:01.133"
+              },
+              {
+                "confidence": 0.8799,
+                "adjustedStart": "0:00:13.9",
+                "adjustedEnd": "0:00:16.034",
+                "start": "0:00:13.9",
+                "end": "0:00:16.034"
+              },
+              {
+                "confidence": 0.8872,
+                "adjustedStart": "0:02:57.1",
+                "adjustedEnd": "0:02:58.167",
+                "start": "0:02:57.1",
+                "end": "0:02:58.167"
+              },
+              {
+                "confidence": 0.8558,
+                "adjustedStart": "0:03:00.3",
+                "adjustedEnd": "0:03:01.367",
+                "start": "0:03:00.3",
+                "end": "0:03:01.367"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "curtain",
+            "referenceId": "covering/curtain",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9783,
+                "adjustedStart": "0:00:40.567",
+                "adjustedEnd": "0:00:45.9",
+                "start": "0:00:40.567",
+                "end": "0:00:45.9"
+              },
+              {
+                "confidence": 0.9667,
+                "adjustedStart": "0:00:56.567",
+                "adjustedEnd": "0:01:52.034",
+                "start": "0:00:56.567",
+                "end": "0:01:52.034"
+              },
+              {
+                "confidence": 0.9606,
+                "adjustedStart": "0:01:53.1",
+                "adjustedEnd": "0:02:00.567",
+                "start": "0:01:53.1",
+                "end": "0:02:00.567"
+              },
+              {
+                "confidence": 0.9409,
+                "adjustedStart": "0:02:27.233",
+                "adjustedEnd": "0:02:32.567",
+                "start": "0:02:27.233",
+                "end": "0:02:32.567"
+              },
+              {
+                "confidence": 0.9601,
+                "adjustedStart": "0:02:36.833",
+                "adjustedEnd": "0:02:38.967",
+                "start": "0:02:36.833",
+                "end": "0:02:38.967"
+              },
+              {
+                "confidence": 0.979,
+                "adjustedStart": "0:03:09.9",
+                "adjustedEnd": "0:03:10.233",
+                "start": "0:03:09.9",
+                "end": "0:03:10.233"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "music",
+            "referenceId": "communication/auditory communication/music",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.8814,
+                "adjustedStart": "0:00:41.633",
+                "adjustedEnd": "0:00:42.7",
+                "start": "0:00:41.633",
+                "end": "0:00:42.7"
+              },
+              {
+                "confidence": 0.8691,
+                "adjustedStart": "0:00:58.7",
+                "adjustedEnd": "0:00:59.767",
+                "start": "0:00:58.7",
+                "end": "0:00:59.767"
+              },
+              {
+                "confidence": 0.8601,
+                "adjustedStart": "0:01:37.1",
+                "adjustedEnd": "0:01:38.167",
+                "start": "0:01:37.1",
+                "end": "0:01:38.167"
+              },
+              {
+                "confidence": 0.9254,
+                "adjustedStart": "0:01:44.567",
+                "adjustedEnd": "0:01:45.634",
+                "start": "0:01:44.567",
+                "end": "0:01:45.634"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "man",
+            "referenceId": "person/man",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9325,
+                "adjustedStart": "0:00:46.967",
+                "adjustedEnd": "0:00:48.034",
+                "start": "0:00:46.967",
+                "end": "0:00:48.034"
+              },
+              {
+                "confidence": 0.9014,
+                "adjustedStart": "0:01:49.9",
+                "adjustedEnd": "0:01:50.967",
+                "start": "0:01:49.9",
+                "end": "0:01:50.967"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "indoor",
+            "referenceId": null,
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.8559,
+                "adjustedStart": "0:03:00.3",
+                "adjustedEnd": "0:03:01.367",
+                "start": "0:03:00.3",
+                "end": "0:03:01.367"
+              },
+              {
+                "confidence": 0.8875,
+                "adjustedStart": "0:03:04.567",
+                "adjustedEnd": "0:03:05.634",
+                "start": "0:03:04.567",
+                "end": "0:03:05.634"
+              }
+            ]
+          }
+        ],
+        "scenes": [
+          {
+            "id": 0,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:39.767",
+                "start": "0:00:00",
+                "end": "0:00:39.767"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:39.767",
+                "adjustedEnd": "0:00:46.1",
+                "start": "0:00:39.767",
+                "end": "0:00:46.1"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "instances": [
+              {
+                "adjustedStart": "0:00:46.1",
+                "adjustedEnd": "0:03:10.244",
+                "start": "0:00:46.1",
+                "end": "0:03:10.244"
+              }
+            ]
+          }
+        ],
+        "shots": [
+          {
+            "id": 0,
+            "keyFrames": [
+              {
+                "id": 0,
+                "instances": [
+                  {
+                    "thumbnailId": "398213b9-09fa-40a0-b630-a282e71d38b3",
+                    "adjustedStart": "0:00:00.2",
+                    "adjustedEnd": "0:00:00.233",
+                    "start": "0:00:00.2",
+                    "end": "0:00:00.233"
+                  }
+                ]
+              },
+              {
+                "id": 1,
+                "instances": [
+                  {
+                    "thumbnailId": "bd8845e6-d0cc-4c9f-ba45-0d285fd7876f",
+                    "adjustedStart": "0:00:00.233",
+                    "adjustedEnd": "0:00:00.266",
+                    "start": "0:00:00.233",
+                    "end": "0:00:00.266"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:39.767",
+                "start": "0:00:00",
+                "end": "0:00:39.767"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "keyFrames": [
+              {
+                "id": 2,
+                "instances": [
+                  {
+                    "thumbnailId": "87370f02-5dd6-47ed-b66e-898aa3d293d8",
+                    "adjustedStart": "0:00:39.767",
+                    "adjustedEnd": "0:00:39.8",
+                    "start": "0:00:39.767",
+                    "end": "0:00:39.8"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:39.767",
+                "adjustedEnd": "0:00:46.1",
+                "start": "0:00:39.767",
+                "end": "0:00:46.1"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "keyFrames": [
+              {
+                "id": 3,
+                "instances": [
+                  {
+                    "thumbnailId": "03f86794-aad0-467e-ab63-a199cd0322c2",
+                    "adjustedStart": "0:00:46.1",
+                    "adjustedEnd": "0:00:46.133",
+                    "start": "0:00:46.1",
+                    "end": "0:00:46.133"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:46.1",
+                "adjustedEnd": "0:00:56.233",
+                "start": "0:00:46.1",
+                "end": "0:00:56.233"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "keyFrames": [
+              {
+                "id": 4,
+                "instances": [
+                  {
+                    "thumbnailId": "d2d176aa-5396-485f-b816-902f192e1303",
+                    "adjustedStart": "0:00:56.233",
+                    "adjustedEnd": "0:00:56.266",
+                    "start": "0:00:56.233",
+                    "end": "0:00:56.266"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:56.233",
+                "adjustedEnd": "0:02:00.233",
+                "start": "0:00:56.233",
+                "end": "0:02:00.233"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "keyFrames": [
+              {
+                "id": 5,
+                "instances": [
+                  {
+                    "thumbnailId": "b23e42b5-aae1-4f8e-ae00-4f2cd61a57e5",
+                    "adjustedStart": "0:02:00.233",
+                    "adjustedEnd": "0:02:00.266",
+                    "start": "0:02:00.233",
+                    "end": "0:02:00.266"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:02:00.233",
+                "adjustedEnd": "0:02:26.533",
+                "start": "0:02:00.233",
+                "end": "0:02:26.533"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "keyFrames": [
+              {
+                "id": 6,
+                "instances": [
+                  {
+                    "thumbnailId": "b66fe0f8-0861-4663-adde-1c64c9c23368",
+                    "adjustedStart": "0:02:26.533",
+                    "adjustedEnd": "0:02:26.566",
+                    "start": "0:02:26.533",
+                    "end": "0:02:26.566"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:02:26.533",
+                "adjustedEnd": "0:02:32.367",
+                "start": "0:02:26.533",
+                "end": "0:02:32.367"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "keyFrames": [
+              {
+                "id": 7,
+                "instances": [
+                  {
+                    "thumbnailId": "501c6213-0cbf-468f-b4f0-95875ec4a914",
+                    "adjustedStart": "0:02:32.367",
+                    "adjustedEnd": "0:02:32.4",
+                    "start": "0:02:32.367",
+                    "end": "0:02:32.4"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:02:32.367",
+                "adjustedEnd": "0:02:36.733",
+                "start": "0:02:32.367",
+                "end": "0:02:36.733"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "keyFrames": [
+              {
+                "id": 8,
+                "instances": [
+                  {
+                    "thumbnailId": "419edaf3-8462-4230-a01c-7591cb036339",
+                    "adjustedStart": "0:02:36.733",
+                    "adjustedEnd": "0:02:36.766",
+                    "start": "0:02:36.733",
+                    "end": "0:02:36.766"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:02:36.733",
+                "adjustedEnd": "0:02:38.3",
+                "start": "0:02:36.733",
+                "end": "0:02:38.3"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "keyFrames": [
+              {
+                "id": 9,
+                "instances": [
+                  {
+                    "thumbnailId": "0f1069a3-9595-4443-a632-1ff8daa3f24b",
+                    "adjustedStart": "0:02:38.3",
+                    "adjustedEnd": "0:02:38.333",
+                    "start": "0:02:38.3",
+                    "end": "0:02:38.333"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:02:38.3",
+                "adjustedEnd": "0:03:09.833",
+                "start": "0:02:38.3",
+                "end": "0:03:09.833"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "keyFrames": [
+              {
+                "id": 10,
+                "instances": [
+                  {
+                    "thumbnailId": "aa026036-8b6b-4ff9-b9c7-6216b3a6d3f9",
+                    "adjustedStart": "0:03:09.833",
+                    "adjustedEnd": "0:03:09.866",
+                    "start": "0:03:09.833",
+                    "end": "0:03:09.866"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:03:09.833",
+                "adjustedEnd": "0:03:10.244",
+                "start": "0:03:09.833",
+                "end": "0:03:10.244"
+              }
+            ]
+          }
+        ],
+        "sentiments": [
+          {
+            "id": 0,
+            "averageScore": 0.5,
+            "sentimentType": "Neutral",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:26.2",
+                "start": "0:00:00",
+                "end": "0:00:26.2"
+              },
+              {
+                "adjustedStart": "0:00:28.28",
+                "adjustedEnd": "0:00:30.71",
+                "start": "0:00:28.28",
+                "end": "0:00:30.71"
+              },
+              {
+                "adjustedStart": "0:00:32.27",
+                "adjustedEnd": "0:03:07.27",
+                "start": "0:00:32.27",
+                "end": "0:03:07.27"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "averageScore": 0.1486,
+            "sentimentType": "Negative",
+            "instances": [
+              {
+                "adjustedStart": "0:00:26.2",
+                "adjustedEnd": "0:00:28.28",
+                "start": "0:00:26.2",
+                "end": "0:00:28.28"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "averageScore": 0.9539,
+            "sentimentType": "Positive",
+            "instances": [
+              {
+                "adjustedStart": "0:00:30.71",
+                "adjustedEnd": "0:00:32.27",
+                "start": "0:00:30.71",
+                "end": "0:00:32.27"
+              },
+              {
+                "adjustedStart": "0:03:07.27",
+                "adjustedEnd": "0:03:10.244",
+                "start": "0:03:07.27",
+                "end": "0:03:10.244"
+              }
+            ]
+          }
+        ],
+        "blocks": [
+          {
+            "id": 0,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:30.83",
+                "start": "0:00:00",
+                "end": "0:00:30.83"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:30.83",
+                "adjustedEnd": "0:01:00.94",
+                "start": "0:00:30.83",
+                "end": "0:01:00.94"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "instances": [
+              {
+                "adjustedStart": "0:01:00.94",
+                "adjustedEnd": "0:01:35.21",
+                "start": "0:01:00.94",
+                "end": "0:01:35.21"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "instances": [
+              {
+                "adjustedStart": "0:01:35.21",
+                "adjustedEnd": "0:02:08.03",
+                "start": "0:01:35.21",
+                "end": "0:02:08.03"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "instances": [
+              {
+                "adjustedStart": "0:02:08.03",
+                "adjustedEnd": "0:02:39.23",
+                "start": "0:02:08.03",
+                "end": "0:02:39.23"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "instances": [
+              {
+                "adjustedStart": "0:02:39.23",
+                "adjustedEnd": "0:03:10.244",
+                "start": "0:02:39.23",
+                "end": "0:03:10.244"
+              }
+            ]
+          }
+        ],
+        "framePatterns": [
+          {
+            "id": 0,
+            "patternType": "RollingCredits",
+            "confidence": 0.1,
+            "instances": [
+              {
+                "adjustedStart": "0:03:05",
+                "adjustedEnd": "0:03:10",
+                "start": "0:03:05",
+                "end": "0:03:10"
+              }
+            ]
+          }
+        ],
+        "speakers": [
+          {
+            "id": 1,
+            "name": "Speaker #1",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:38.59",
+                "start": "0:00:00",
+                "end": "0:00:38.59"
+              },
+              {
+                "adjustedStart": "0:00:46.25",
+                "adjustedEnd": "0:01:00.13",
+                "start": "0:00:46.25",
+                "end": "0:01:00.13"
+              },
+              {
+                "adjustedStart": "0:01:55.5",
+                "adjustedEnd": "0:02:00.907",
+                "start": "0:01:55.5",
+                "end": "0:02:00.907"
+              },
+              {
+                "adjustedStart": "0:02:00.972",
+                "adjustedEnd": "0:02:13.325",
+                "start": "0:02:00.972",
+                "end": "0:02:13.325"
+              },
+              {
+                "adjustedStart": "0:02:13.39",
+                "adjustedEnd": "0:02:23.89",
+                "start": "0:02:13.39",
+                "end": "0:02:23.89"
+              },
+              {
+                "adjustedStart": "0:02:34.37",
+                "adjustedEnd": "0:03:10.244",
+                "start": "0:02:34.37",
+                "end": "0:03:10.244"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Speaker #2",
+            "instances": [
+              {
+                "adjustedStart": "0:00:38.64",
+                "adjustedEnd": "0:00:46.2",
+                "start": "0:00:38.64",
+                "end": "0:00:46.2"
+              },
+              {
+                "adjustedStart": "0:01:00.19",
+                "adjustedEnd": "0:01:55.43",
+                "start": "0:01:00.19",
+                "end": "0:01:55.43"
+              },
+              {
+                "adjustedStart": "0:02:23.95",
+                "adjustedEnd": "0:02:34.31",
+                "start": "0:02:23.95",
+                "end": "0:02:34.31"
+              }
+            ]
+          }
+        ],
+        "textualContentModeration": {
+          "id": 0,
+          "bannedWordsCount": 4,
+          "bannedWordsRatio": 0.007,
+          "instances": []
+        },
+        "statistics": {
+          "correspondenceCount": 6,
+          "speakerTalkToListenRatio": {
+            "1": 0.667,
+            "2": 0.332
+          },
+          "speakerLongestMonolog": {
+            "1": 43,
+            "2": 52
+          },
+          "speakerNumberOfFragments": {
+            "1": 4,
+            "2": 3
+          },
+          "speakerWordCount": {
+            "1": 391,
+            "2": 197
+          }
+        },
+        "sourceLanguageConfidence": 1
+      },
+      "thumbnailId": "cb39aaac-2a62-45d2-86c4-6403bdc3a15a",
+      "publishedUrl": "https://rodmandev.streaming.mediaservices.windows.net:443/b0711b5b-7406-4161-8b08-4bda4a3b8dfb/e95293f4-687b-48a2-ab86-38e48d86.ism/manifest(encryption=cbc)",
+      "publishedProxyUrl": null,
+      "viewToken": "Bearer=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cm46bWljcm9zb2Z0OmF6dXJlOm1lZGlhc2VydmljZXM6Y29udGVudGtleWlkZW50aWZpZXIiOiI3MjUwNzJmMS0wOWU1LTRlYTMtODBjMi01MTVkZWU5M2ZlM2EiLCJpc3MiOiJodHRwczovL2JyZWFrZG93bi5tZSIsImF1ZCI6IkJyZWFrZG93blVzZXIiLCJleHAiOjE1NTUxNjY5MjksIm5iZiI6MTU1NTA4MDQ2OX0.7PNNAWqZuQlLRelKHFSNLrFXu-P3gpDUX9J_7oKZCpY",
+      "detectSourceLanguage": false,
+      "sourceLanguage": "en-US",
+      "language": "en-US",
+      "indexingPreset": "Default",
+      "linguisticModelId": "00000000-0000-0000-0000-000000000000",
+      "personModelId": "00000000-0000-0000-0000-000000000000",
+      "isAdult": false
+    }
+  ],
+  "videosRanges": [
+    {
+      "videoId": "00f2a77c40",
+      "range": {
+        "start": "0:00:00",
+        "end": "0:03:10.294"
+      }
+    }
+  ]
+}
